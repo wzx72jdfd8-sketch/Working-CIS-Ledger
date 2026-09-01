@@ -1,0 +1,4 @@
+CIS Ledger
+Version: 1.1.4
+Date: 2026-09-01
+Not HMRC-recognised tax software.

@@ -1,0 +1,39 @@
+CIS LEDGER — LEGAL NOTES
+========================
+
+Product: CIS Ledger
+Version: 1.1.4 (1 September 2026)
+
+Not HMRC software
+-----------------
+CIS Ledger is not HMRC-recognised tax software. It does not file CIS300
+monthly returns. It does not file Self Assessment. It does not connect
+to HMRC or verify subcontractors. It does not replace the contractor's
+official payment and deduction statement.
+
+Records only
+------------
+The app produces invoices and records you keep on this computer. It is
+a record-keeping aid, not tax advice.
+
+Your responsibility
+-------------------
+You are responsible for the accuracy of names, UTRs, rates, line types,
+VAT, and amounts. Check figures against the contractor's statement and
+take advice from HMRC or a qualified accountant where you need it.
+CIS rates are set when the contractor verifies you with HMRC.
+
+Local data only
+---------------
+Your profile, contractors, invoices, next invoice number and unlock PIN
+live in cis-ledger.json in the CIS Ledger folder (the same place as the
+starter). Data is not uploaded. Clearing the browser does not wipe the
+books. Deleting that JSON file does. Keep a JSON backup from Settings.
+The unlock PIN is not encryption. Anyone with this computer can open
+the file.
+
+Licence
+-------
+CIS Ledger is free software under the MIT Licence. Copyright (c) 2026
+the CIS Ledger authors. Provided as-is, with no warranty for fitness,
+uninterrupted use, or tax outcomes.
